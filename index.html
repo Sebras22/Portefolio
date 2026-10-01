@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Sébastien Branly, développeur fullstack (React, TypeScript, Java Spring) à Paris. En recherche active d'un poste en CDI."
+    />
+    <meta name="theme-color" content="#f3e1d0" />
+    <script>
+      try {
+        var t = localStorage.getItem('theme')
+        if (t !== 'light' && t !== 'dark') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+        document.documentElement.dataset.theme = t
+        document.documentElement.setAttribute('data-mantine-color-scheme', t)
+      } catch (e) {}
+    </script>
+    <script>
+      try {
+        if (matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.dataset.splash = 'skip'
+        else if (/[?&]splash=1/.test(location.search)) sessionStorage.removeItem('splash-seen')
+        else if (sessionStorage.getItem('splash-seen')) document.documentElement.dataset.splash = 'skip'
+      } catch (e) {}
+    </script>
+    <noscript>
+      <style>
+        .splash { display: none !important; }
+        .nav__logo { visibility: visible !important; }
+        html { overflow: auto !important; }
+      </style>
+    </noscript>
+    <title>Sébastien Branly · Développeur Fullstack</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

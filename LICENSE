@@ -1,0 +1,64 @@
+Copyright (c) 2026 Sébastien Branly. All rights reserved.
+
+SOURCE-AVAILABLE LICENSE (NOT OPEN SOURCE)
+
+This repository is public so that it can be read, evaluated and learned from. Making it
+public does not make it free to copy or reuse. The source code, the visual design and
+layout, the animations (splash screen, 3D scene, easter egg, music player), the logo and
+visual identity, the texts, and all other content (together, the "Work") remain the
+exclusive property of Sébastien Branly (the "Author").
+
+1. WHAT YOU MAY DO
+
+   You may, free of charge:
+
+   a) view, read and browse the Work, including on GitHub;
+   b) clone or download the Work to your own computer, and run it locally, for the sole
+      purpose of reading, studying or evaluating it (for example as part of a hiring
+      process or a code review);
+   c) fork the repository on GitHub, only to the extent that GitHub's Terms of Service
+      allow it, without receiving any further right by doing so;
+   d) quote short excerpts of the code in discussions, reviews or educational material,
+      with a clear credit to the Author and a link to this repository.
+
+2. WHAT YOU MAY NOT DO WITHOUT PRIOR WRITTEN PERMISSION
+
+   You may not:
+
+   a) copy, reproduce, publish, host, deploy, distribute or sell the Work, or any
+      substantial part of it, whether verbatim or modified;
+   b) create or publish a website, template, theme, starter kit or any other derivative
+      work based on the Work, including a version in which the names, texts, images,
+      colours, projects or other information have simply been replaced or changed;
+   c) reuse the logo, the visual identity, the layout, the animations or the overall look
+      and feel of the Work, or imitate them in a way that could be confused with the Work;
+   d) use the Author's name, texts, projects, images or personal information in any way;
+   e) use the Work to train, fine-tune or evaluate machine-learning or generative AI
+      models, or to build datasets for that purpose;
+   f) remove or alter this license or any copyright notice.
+
+3. THIRD-PARTY COMPONENTS
+
+   The Work depends on third-party software and assets, for example React, Vite, Three.js,
+   react-three-fiber, Motion, Mantine hooks, Tabler Icons and the Fredoka and DM Sans
+   typefaces. They are not part of the Work, are not covered by this license, and remain
+   under their own licenses (see package.json and the packages in node_modules). Nothing
+   in this license restricts your rights under those licenses.
+
+4. NO WARRANTY
+
+   The Work is provided "as is", without warranty of any kind, express or implied. The
+   Author shall not be liable for any claim, damages or other liability arising from the
+   Work or its use.
+
+5. TERMINATION
+
+   Any use that does not comply with this license automatically terminates the permissions
+   granted above. The Author may take any action permitted by law, including requesting the
+   removal of infringing copies from hosting platforms.
+
+6. PERMISSIONS AND GOVERNING LAW
+
+   To ask for permission to use any part of the Work, contact the Author at
+   contact@sebastienbranly.fr. This license is governed by French law. Any dispute falls
+   under the jurisdiction of the competent courts of Paris, France.
