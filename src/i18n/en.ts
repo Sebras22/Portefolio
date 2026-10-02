@@ -4,7 +4,7 @@ export const en: Dict = {
   meta: {
     title: 'Sébastien Branly | Fullstack Developer in Paris',
     description:
-      'Sébastien Branly, fullstack developer (React, TypeScript, Java Spring) based in Paris. Actively looking for a permanent position.',
+      'Sébastien Branly, fullstack developer (React, TypeScript, SpringBoot) based in Paris. Actively looking for a permanent position.',
   },
   nav: {
     home: 'Home',
@@ -46,7 +46,7 @@ export const en: Dict = {
         place: 'La Défense',
         period: '2024 - 2026',
         points: ['New feature development', 'Code migrations', 'Proof-of-concept development', 'Test writing'],
-        stack: ['React', 'TypeScript', 'Java Spring', 'MaterialUI', 'Cypress', 'Jest', 'AWS'],
+        stack: ['React', 'TypeScript', 'SpringBoot', 'MaterialUI', 'Cypress', 'Jest', 'AWS'],
       },
       {
         kind: 'study',
@@ -168,7 +168,7 @@ export const en: Dict = {
     title: 'Legal notice',
     publisher: 'Site publisher: Sébastien Branly, private individual.',
     contact: 'Contact:',
-    host: 'Host: to be filled in when the site goes live.',
+    host: 'Host: OVH SAS, 2 rue Kellermann, 59100 Roubaix, France.',
     close: 'Close',
   },
 }

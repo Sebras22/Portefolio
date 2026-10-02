@@ -33,6 +33,6 @@ export const projectsMeta: ProjectMeta[] = [
 export const skillTags = {
   design: ['Figma', 'UI / UX', 'Wireframes'],
   front: ['React', 'TypeScript', 'Mantine', 'MaterialUI', 'Vue', 'Angular', 'Motion'],
-  back: ['Java Spring', 'Node.js', 'Hono', 'GraphQL', 'MySQL', 'PostgreSQL'],
+  back: ['SpringBoot', 'Node.js', 'Hono', 'GraphQL', 'MySQL', 'PostgreSQL'],
   tools: ['Cypress', 'Jest', 'AWS', 'Docker', 'Git', 'Jira'],
 }

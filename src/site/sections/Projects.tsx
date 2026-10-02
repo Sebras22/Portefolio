@@ -126,7 +126,7 @@ export function Projects() {
   }
 
   return (
-    <section id="projects" className="projects projects--pan" ref={wrap} style={{ height: `calc(100dvh + ${distance}px)` }}>
+    <section id="projects" className="projects projects--pan" ref={wrap} style={{ height: `calc(100svh + ${distance}px)` }}>
       <div className="projects__stage">
         <div className="projects__head container">
           <h2 className="display">{t.projects.title}</h2>

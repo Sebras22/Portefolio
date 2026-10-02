@@ -4,7 +4,7 @@ export const fr: Dict = {
   meta: {
     title: 'Sébastien Branly | Développeur Fullstack à Paris',
     description:
-      "Sébastien Branly, développeur fullstack (React, TypeScript, Java Spring) à Paris. En recherche active d'un poste en CDI.",
+      "Sébastien Branly, développeur fullstack (React, TypeScript, SpringBoot) à Paris. En recherche active d'un poste en CDI.",
   },
   nav: {
     home: 'Accueil',
@@ -51,7 +51,7 @@ export const fr: Dict = {
           'Développement de POC',
           'Écriture de tests',
         ],
-        stack: ['React', 'TypeScript', 'Java Spring', 'MaterialUI', 'Cypress', 'Jest', 'AWS'],
+        stack: ['React', 'TypeScript', 'SpringBoot', 'MaterialUI', 'Cypress', 'Jest', 'AWS'],
       },
       {
         kind: 'study',
@@ -142,7 +142,7 @@ export const fr: Dict = {
   },
   hobbies: {
     title: 'En dehors du code',
-    text: "Ce qui m'occupe quand l'écran est éteint.",
+    text: "Mes intérêts et mes hobbies.",
     items: ['Judo', 'Tennis', 'Histoire', 'Lecture', 'Univers de Tolkien', 'Jeux vidéo'],
     details: [
       { stat: '18 ans', text: "de pratique. Le goût de l'effort, de la rigueur et du respect." },
@@ -173,7 +173,7 @@ export const fr: Dict = {
     title: 'Mentions légales',
     publisher: 'Éditeur du site : Sébastien Branly, particulier.',
     contact: 'Contact :',
-    host: "Hébergeur : à renseigner lors de la mise en ligne.",
+    host: 'Hébergeur : OVH SAS, 2 rue Kellermann, 59100 Roubaix, France.',
     close: 'Fermer',
   },
 }
